@@ -7,3 +7,8 @@ https://www.coursera.org/course/compinvesting1
 Requirements:
 QSTK for python
 http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
+
+
+Pipeline (to be improved!):
+
+EventProfiler -> MarketSim -> Analyze
